@@ -42,6 +42,14 @@ Redes chamadas **VPNs (Virtual Private Networks)** podem ser usadas para unir as
 
 ## Tecnologia de redes locais a globais
 
+As **redes pessoais**, ou **PANs (Personal Area Networks)**, permitem que dispositivos se comuniquem pelo alcance de uma pessoa.
+
+Uma rede local, **LAN (Local Area Network)** é uma rede particular que opera dentro e próximo de um único prédio, como uma residência, um escritório ou uma fábrica.
+
+As LANs sem fio são muito populares atualmente. Quase sempre, cada computador fala com um dispositivo chamado **ponto de acesso (AP - Access Point)**, **roteador sem fio** ou **estação-base**. Esse dispositivo repassa os pacotes entre os computadores sem fio e também entre eles e a Internet. Ser o AP é como ser o garoto popular na escola, pois todos querem falar com você.
+
+Existe um padrão para as LANs sem fio, chamado **IEEE 802.11**, popularmente conhecido como WiFi. Ele trabalha em velocidades de 11 Mbps (802.11b) a 7 Gbps (802.11ad).
+
 ## Exemplos de redes
 
 ## Protocolos de rede
