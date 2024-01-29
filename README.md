@@ -34,6 +34,12 @@ Um dos principais desafios de throughput da rede é a chamada "largura de banda 
 
 >Os primeiros projetos de rede de centro de dados eram baseados em uma topologia simples em árvore, com três camadas de switches: acesso, agregação e núcleo; este esquema simples não podia ser expandido com facilidade e também era sujeito a falhas.
 
+Muitos serviços populares da Internet precisam oferecer conteúdo a usuários em todo o mundo. Para isso, muitos sites e serviços na Internet utilizam uma **CDN (Content Delivery Network)**, que é um grande conjunto de servidores distribuídos geograficamente, de modo que o conteúdo é colocado o mais próximo possível dos usuários que o estão solicitando.
+
+O **compartilhamento de recursos** torna programas, equipamentos e especialmente dados ao alcance de todas as pessoas na rede, independentemente da localização física do recurso ou do usuário. Um exemplo óbvio e bastante disseminado é um grupo de funcionários de um escritório que compartilham uma impressora comum.
+
+Redes chamadas **VPNs (Virtual Private Networks)** podem ser usadas para unir as redes individuais em diferentes locais em uma rede lógica. Resumindo, trata-se de uma tentativa de dar fim à "tirania da geografia".
+
 ## Tecnologia de redes locais a globais
 
 ## Exemplos de redes
