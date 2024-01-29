@@ -1,6 +1,6 @@
 # Redes de Computadores
 
-Anotações dos meus estudos sobre [redes](https://archive.org/details/tanenbaum-rede-de-computadores-6a/page/n11/mode/2up).
+Anotações dos meus estudos sobre o livro Rede de Computadores do [Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/page/n11/mode/2up).
 
 # I. Introdução
 
