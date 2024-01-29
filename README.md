@@ -26,6 +26,14 @@ O acesso à Internet oferece, aos usuários domésticos, **conectividade** a com
 
 As redes sem fio também são importantes para os militares. Se, de uma horapara outra, for necessário travar uma guerra em qualquer lugar no mundo, talvez não seja possível contar com a possibilidade de usar a infraestrutura de uma rede local. Será melhor levar seu próprio equipamento de rede.
 
+Existe uma distinção entre redes sem **fio fixas** e **sem fio** móveis. Um exemplo é um notebook que é móvel, mas não sem fio. Já redes em edifícios que não dispõem de fiação não são móveis. Agora, um computador portátil que registra o estoque de uma loja é sem fio e móvel.
+
+Muitos serviços da Internet agora são atendidos "pela nuvem" ou em uma **rede de centro de dados** (ou "data center"). As redes de centro de dados atendem às crescentes demandas da **computação em nuvem** e são projetadas para mover grandes quantidades de dados entre os servidores no centro de dados, bem como entre o centro de dados e o restante da Internet.
+
+Um dos principais desafios de throughput da rede é a chamada "largura de banda da seção transversal", que é a taxa de dados que pode ser entregue entre dois servidores.
+
+>Os primeiros projetos de rede de centro de dados eram baseados em uma topologia simples em árvore, com três camadas de switches: acesso, agregação e núcleo; este esquema simples não podia ser expandido com facilidade e também era sujeito a falhas.
+
 ## Tecnologia de redes locais a globais
 
 ## Exemplos de redes
