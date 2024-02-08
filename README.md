@@ -50,6 +50,8 @@ As LANs sem fio são muito populares atualmente. Quase sempre, cada computador f
 
 Existe um padrão para as LANs sem fio, chamado **IEEE 802.11**, popularmente conhecido como WiFi. Ele trabalha em velocidades de 11 Mbps (802.11b) a 7 Gbps (802.11ad).
 
+Normalmente, as LANs com fio trabalham em velocidades de 100 Mbps a 40 Gpbs, têm baixo atraso de transporte de dados e com elas ocorrem poucos erros de transmissão. Têm menor latência, menor perda de pacotes e maior throughput que as LANs sem fio. O **IEEE 802.3**, popularmente chamado **Ethernet**, é o tipo mais comum de LAN com fio.
+
 ## Exemplos de redes
 
 ## Protocolos de rede
